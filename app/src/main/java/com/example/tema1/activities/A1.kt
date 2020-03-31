@@ -21,9 +21,8 @@ class A1: AppCompatActivity() {
     }
 
     private fun goToA2(){
-        val intent = Intent(this@A1, A2::class.java)
+        val intent = Intent(this, A2::class.java)
         startActivity(intent)
     }
-
 
 }
