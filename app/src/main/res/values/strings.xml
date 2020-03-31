@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tema1</string>
+    <string name="title">Puchianu Alexandra</string>
+    <string name="activity1">Activity 1</string>
+    <string name="activity1_fragment1">Activity 1 Fragment 1 </string>
+    <string name="activity2_fragment1">Activity 2 Fragment 1</string>
+    <string name="activity2_fragment2">Activity 2 Fragment 2</string>
+    <string name="activity2_fragment3">Activity 2 Fragment 3</string>
+    <string name="go_to_second_activity">Go to the second activity</string>
+    <string name="go_to_fragment_1">Go to fragment 1</string>
+    <string name="go_to_fragment_2">Go to fragment 2</string>
+    <string name="go_to_fragment_3">Go to fragment 3</string>
+    <string name="join_session">Let\'s start</string>
+    <string name="change_fragment">Change me!</string>
+    <string name="remove_fragment">Remove the first fragment.</string>
+    <string name="close_activity">Close activity.</string>
+</resources>
+
+
+
+
+
